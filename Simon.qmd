@@ -1,0 +1,27 @@
+---
+title: "Ejemplo"
+format: html
+editor: visual
+---
+
+Libreria:
+
+```{r}
+#ABC
+library(tidyverse)
+
+
+```
+
+Gráfico:
+
+```{r}
+
+```
+
+```{#Grafico}
+
+plot(iris$Sepal.Length)
+
+
+```
